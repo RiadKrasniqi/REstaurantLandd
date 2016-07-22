@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Restaurant Land</string>
+    <string name="app_name">Restaurant Land
+        <!--<string name="search_title">Search</string>-->
+    </string>
+     <string name = "action_favorite">Favorite
+        </string>
+     <string name = "action_settings">Search
+        </string>
 </resources>
